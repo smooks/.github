@@ -2,4 +2,4 @@
 
 The Smooks team participates in responsible disclosure and welcomes collaboration with the wider community on security issues.
 
-To report a security issue, [please open a draft security advisory](security/advisories/new).
+To report a security issue, please open a draft security advisory at https://github.com/smooks/[repository]/security/advisories/new.
