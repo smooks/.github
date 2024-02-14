@@ -36,5 +36,4 @@ Example:
 
 A link to a GitHub repository with a [minimal, reproducible sample](https://stackoverflow.com/help/minimal-reproducible-example).
 
-Reports that include a sample will take priority over reports that do not.
-At times, we may require a sample, so it is good to try and include a sample up front.
+Reports that include a sample will take priority over reports that do not. At times, we may require a sample, so it is good to try and include a sample up front.
