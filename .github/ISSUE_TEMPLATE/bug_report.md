@@ -8,7 +8,9 @@ assignees: ''
 ---
 
 <!--
-Do NOT report Security Vulnerabilities here. Please open a draft security advisory at https://github.com/smooks/[repository]/security/advisories/new.
+You should first reach out through the Smooks user mailing list (https://groups.google.com/g/smooks-user) where the community is more active. Alternatively, take time to read FAQs (https://www.smooks.org/faq.html), read the user guide (https://www.smooks.org/documentation/), or search the mailing list archives to find answers. Create a bug report only when you are positive that the issue is indeed a bug.
+
+Do NOT report Security Vulnerabilities here. Please open a draft security advisory at https://github.com/smooks/[repository]/security/advisories/new where [repository] is substituted with this repository's name.
 -->
 
 **Describe the bug**
